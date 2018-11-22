@@ -10,8 +10,8 @@
   FORKID {2EECF092-D7C3-4ACA-BFE6-377B72950FE9}
 */
 
-description = "5W Iso CNC";
-vendor = "Autodesk";
+description = "5w Iso CNC";
+vendor = "5w Tampere Hacklab";
 vendorUrl = "http://www.autodesk.com";
 legal = "Copyright (C) 2012-2016 by Autodesk, Inc.";
 certificationLevel = 2;

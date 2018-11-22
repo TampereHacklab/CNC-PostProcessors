@@ -10,8 +10,8 @@
   FORKID {154F7C00-6549-4c77-ADE0-79375FE5F2AA}
 */
 
-description = "5W PCB CNC";
-vendor = "5W";
+description = "5w PCB CNC";
+vendor = "5w Tampere Hacklab";
 vendorUrl = "https://github.com/grbl/grbl/wiki";
 legal = "Copyright (C) 2012-2016 by Autodesk, Inc.";
 certificationLevel = 2;

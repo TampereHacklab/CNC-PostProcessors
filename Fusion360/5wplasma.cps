@@ -12,8 +12,8 @@
   FORKID {51C1E5C7-D09E-458F-AC35-4A2CE1E0AE32}
 */
 
-description = "5W plasma";
-vendor = "5W";
+description = "5w Plasma cutter";
+vendor = "5w Tampere Hacklab";
 vendorUrl = "http://www.autodesk.com";
 legal = "Copyright (C) 2015-2016 by Autodesk, Inc.";
 certificationLevel = 2;
