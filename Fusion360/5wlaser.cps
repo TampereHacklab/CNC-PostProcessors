@@ -728,7 +728,7 @@ function onCommand(command) {
 	writeBlock(mFormat.format(5)); //laser off
     return;
   case COMMAND_COOLANT_ON:
-    writeBlock(mFormat.format(7)); // fan on
+    writeBlock(mFormat.format(106)); // fan on
     return;
   case COMMAND_COOLANT_OFF:
     //writeBlock(mFormat.format(107)); // fan off
