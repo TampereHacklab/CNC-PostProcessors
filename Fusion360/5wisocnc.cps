@@ -381,7 +381,7 @@ function onSection() {
       warning(localize("Tool number exceeds maximum value."));
     }
 
-    writeBlock("T" + toolFormat.format(tool.number), mFormat.format(6));
+    writeBlock(mFormat.format(6), "T" + toolFormat.format(tool.number));
     if (tool.comment) {
       writeComment(tool.comment);
     }
