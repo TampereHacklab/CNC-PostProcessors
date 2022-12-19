@@ -428,9 +428,9 @@ function onSection() {
     if (tool.spindleRPM > 99999) {
       warning(localize("Spindle speed exceeds maximum value."));
    }
-    /*writeBlock(
+    writeBlock(
       sOutput.format(tool.spindleRPM), mFormat.format(tool.clockwise ? 3 : 4)
-    );*/
+    );
     writeBlock(mFormat.format(tool.clockwise ? 3 : 4));
   }
 
